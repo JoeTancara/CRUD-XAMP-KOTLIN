@@ -1,5 +1,7 @@
 📱 Aplicación Android con MySQL - XAMP
 
+Recuerda que para el consumo de la APIREST te dejo una carpeta "ANDROID_MYSQL" con los archivos necesarios que van en tu servidor
+
 Esta es una aplicación Android que interactúa con una base de datos MySQL utilizando Volley para las solicitudes de red. Permite a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre registros de usuarios.
 
 🚀 Características
